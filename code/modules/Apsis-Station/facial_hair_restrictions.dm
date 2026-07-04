@@ -14,6 +14,67 @@
 
 // Hair beyond shoulder length restricted for helmet purposes.
 // Hair tied up is still restricted.
+// Whenever TG adds more inappropriate hairstyles they will be added to the top of this list. Thanks for that.
+
+/datum/sprite_accessory/hair/coily
+	lore_banned = TRUE
+
+/datum/sprite_accessory/hair/doubledrills
+	lore_banned = TRUE
+
+/datum/sprite_accessory/hair/frizzysidecut
+	lore_banned = TRUE
+
+/datum/sprite_accessory/hair/longdreads
+	lore_banned = TRUE
+
+/datum/sprite_accessory/hair/longdreadsup
+	lore_banned = TRUE
+
+/datum/sprite_accessory/hair/longsidecut
+	lore_banned = TRUE
+
+/datum/sprite_accessory/hair/longwavy
+	lore_banned = TRUE
+
+/datum/sprite_accessory/hair/moneypiece
+	lore_banned = TRUE
+
+/datum/sprite_accessory/hair/mullet
+	lore_banned = TRUE
+
+/datum/sprite_accessory/hair/mulletwrattail
+	lore_banned = TRUE
+
+/datum/sprite_accessory/hair/pigtails4
+	lore_banned = TRUE
+
+/datum/sprite_accessory/hair/pigtails5
+	lore_banned = TRUE
+
+/datum/sprite_accessory/hair/ponytailfro
+	lore_banned = TRUE
+
+/datum/sprite_accessory/hair/ponytailwavy
+	lore_banned = TRUE
+
+/datum/sprite_accessory/hair/sadako
+	lore_banned = TRUE
+
+/datum/sprite_accessory/hair/singedpigtails
+	lore_banned = TRUE
+
+/datum/sprite_accessory/hair/swirlycurls
+	lore_banned = TRUE
+
+/datum/sprite_accessory/hair/tayama
+	lore_banned = TRUE
+
+/datum/sprite_accessory/hair/twintailswavy
+	lore_banned = TRUE
+
+/datum/sprite_accessory/hair/wolfcut
+	lore_banned = TRUE
 
 /datum/sprite_accessory/hair/bedheadfloorlength
 	lore_banned = TRUE //the most egregious offender
